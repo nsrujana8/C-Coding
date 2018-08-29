@@ -1,0 +1,11 @@
+/Users/srujananarayanreddygari/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.deps.json
+/Users/srujananarayanreddygari/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.runtimeconfig.json
+/Users/srujananarayanreddygari/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.runtimeconfig.dev.json
+/Users/srujananarayanreddygari/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.dll
+/Users/srujananarayanreddygari/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.pdb
+/Users/srujananarayanreddygari/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.csprojAssemblyReference.cache
+/Users/srujananarayanreddygari/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.csproj.CoreCompileInputs.cache
+/Users/srujananarayanreddygari/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.AssemblyInfoInputs.cache
+/Users/srujananarayanreddygari/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.AssemblyInfo.cs
+/Users/srujananarayanreddygari/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.dll
+/Users/srujananarayanreddygari/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.pdb
