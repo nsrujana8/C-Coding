@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/srujananarayanreddygari/Projects/Automation/Automation/Automation.csproj",
+      "projectUniqueName": "/Users/srujananarayanreddygari/C-Coding/Automation/Automation.csproj",
       "projectName": "Automation",
-      "projectPath": "/Users/srujananarayanreddygari/Projects/Automation/Automation/Automation.csproj",
+      "projectPath": "/Users/srujananarayanreddygari/C-Coding/Automation/Automation.csproj",
       "packagesPath": "/Users/srujananarayanreddygari/.nuget/packages/",
-      "outputPath": "/Users/srujananarayanreddygari/Projects/Automation/Automation/obj",
+      "outputPath": "/Users/srujananarayanreddygari/C-Coding/Automation/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
