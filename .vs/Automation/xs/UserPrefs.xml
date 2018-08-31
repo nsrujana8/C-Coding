@@ -1,10 +1,16 @@
 ﻿<Properties StartupConfiguration="{B407440A-A815-41C8-ADCF-28A62E736A00}|Default">
   <MonoDevelop.Ide.ItemProperties.Automation PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Automation/Switch_Case_Logic.cs">
+    <Files>
+      <File FileName="Automation/Switch_Case_Logic.cs" Line="17" Column="51" />
+      <File FileName="ifelse_Logic/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ifelse__Logic FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

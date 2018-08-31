@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/srujananarayanreddygari/C-Coding/C-Coding/Automation/Automation.csproj",
-      "projectName": "Automation",
-      "projectPath": "/Users/srujananarayanreddygari/C-Coding/C-Coding/Automation/Automation.csproj",
+      "projectUniqueName": "/Users/srujananarayanreddygari/C-Coding/C-Coding/ifelse_Logic/ifelse_Logic.csproj",
+      "projectName": "ifelse_Logic",
+      "projectPath": "/Users/srujananarayanreddygari/C-Coding/C-Coding/ifelse_Logic/ifelse_Logic.csproj",
       "packagesPath": "/Users/srujananarayanreddygari/.nuget/packages/",
-      "outputPath": "/Users/srujananarayanreddygari/C-Coding/C-Coding/Automation/obj",
+      "outputPath": "/Users/srujananarayanreddygari/C-Coding/C-Coding/ifelse_Logic/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
