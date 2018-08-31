@@ -687,9 +687,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/srujananarayanreddygari/C-Coding/C-Coding/Automation/Automation.csproj",
-      "projectName": "Automation",
-      "projectPath": "/Users/srujananarayanreddygari/C-Coding/C-Coding/Automation/Automation.csproj",
+      "projectUniqueName": "/Users/srujananarayanreddygari/C-Coding/C-Coding/Automation/Switch_Case_Logic.csproj",
+      "projectName": "Switch_Case_Logic",
+      "projectPath": "/Users/srujananarayanreddygari/C-Coding/C-Coding/Automation/Switch_Case_Logic.csproj",
       "packagesPath": "/Users/srujananarayanreddygari/.nuget/packages/",
       "outputPath": "/Users/srujananarayanreddygari/C-Coding/C-Coding/Automation/obj",
       "projectStyle": "PackageReference",

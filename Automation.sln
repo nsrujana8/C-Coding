@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation", "Automation\Automation.csproj", "{B407440A-A815-41C8-ADCF-28A62E736A00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Case_Logic", "Automation\Switch_Case_Logic.csproj", "{B407440A-A815-41C8-ADCF-28A62E736A00}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifelse_Logic", "ifelse_Logic\ifelse_Logic.csproj", "{1788FF89-ED25-4045-B2F8-14EB0EBFB57C}"
 EndProject

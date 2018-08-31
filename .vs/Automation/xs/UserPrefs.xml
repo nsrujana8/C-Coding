@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{B407440A-A815-41C8-ADCF-28A62E736A00}|Default">
-  <MonoDevelop.Ide.ItemProperties.Automation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Switch__Case__Logic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Automation/Switch_Case_Logic.cs">
     <Files>
       <File FileName="Automation/Switch_Case_Logic.cs" Line="17" Column="51" />
